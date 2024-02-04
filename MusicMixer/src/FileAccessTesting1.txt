@@ -1,0 +1,8 @@
+1/a/a/a/a/a/a/a
+4/a/a/a/a/a/a/a
+6/a/a/a/a/a/a/a
+newRecord
+newRecord
+testUsername/testPassword/KEPG8C6NQJYKK445/p/testUser/testLastName/testEmail
+newRecord
+EOF
