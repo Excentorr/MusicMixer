@@ -22,7 +22,3 @@ A premium users song time is 60 seconds whilst a regular user's songs are 20 sec
 Bugs:
 - The jar file works just that it cant read or write from text files so you cant make new accounts or save any data.
   Unsure to why as we followed the documentation posted on d2l from the start
-
------------------------------------------------------------------------------------------------------------------------
-Extra: 
-The gnatt, rubric, and user manual can be found in the "Extras" directory, beside this file
